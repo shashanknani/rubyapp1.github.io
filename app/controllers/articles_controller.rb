@@ -44,7 +44,6 @@ class ArticlesController < ApplicationController
     end
 
 
-
    private
 
    def find_article
